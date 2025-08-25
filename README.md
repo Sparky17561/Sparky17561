@@ -1,4 +1,43 @@
-## Hi there 👋
+Saiprasad Jamdar
+
+SDE / AI Engineer • Gamethon2k25 Winner
+
+Hi — I’m Saiprasad. I build things with code, tinker with AI, and ship full-stack projects.
+Upcoming intern at Wissen Technology.
+
+⸻
+
+🔭 Currently
+	•	Preparing for my internship at Wissen Technology
+	•	Continuing to explore ML/AI tooling and production-ready web apps
+
+🛠️ Tech & Tools
+	•	Languages: Python, JavaScript, HTML, CSS
+	•	Frameworks / Libraries: Django, React, LangChain
+	•	Databases: PostgreSQL, MySQL
+	•	Other: Git, REST APIs, basic DevOps workflows
+
+🏆 Highlight
+	•	Gamethon2k25 — Winner
+
+📁 Portfolio
+
+Check out my work and projects:
+https://saiprasadjamdar17561.vercel.app
+
+⸻
+
+📌 Quick note
+
+That’s all for now — I’ll keep this README updated as I build more projects and gain new experiences.
+
+⸻
+
+If you want, I can:
+	•	Turn this into a GitHub profile README with badges and icons, or
+	•	Expand sections (Projects, Experience, Contact) with templates you can paste in.
+
+
 
 <!--
 **Sparky17561/Sparky17561** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
