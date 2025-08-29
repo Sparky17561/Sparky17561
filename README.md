@@ -1,7 +1,7 @@
 Saiprasad Jamdar
 Kalyan/Maharashtra
 SDE / AI Engineer • Gamethon2k25 Winner
-
+21 currently
 Hi — I’m Saiprasad. I build things with code, tinker with AI, and ship full-stack projects.
 Upcoming intern at Wissen Technology.
 
