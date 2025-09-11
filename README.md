@@ -23,7 +23,7 @@ Upcoming intern at Wissen Technology.
 📁 Portfolio
 
 Check out my work and projects:
-https://saiprasadjamdar17561.vercel.app
+https://saiprasadjamdar.vercel.app
 
 ⸻
 
