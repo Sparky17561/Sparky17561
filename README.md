@@ -33,11 +33,6 @@ That’s all for now — I’ll keep this README updated as I build more project
 
 ⸻
 
-If you want, I can:
-	•	Turn this into a GitHub profile README with badges and icons, or
-	•	Expand sections (Projects, Experience, Contact) with templates you can paste in.
-
-
 
 <!--
 **Sparky17561/Sparky17561** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
