@@ -18,7 +18,9 @@ Upcoming intern at Wissen Technology.
 	•	Other: Git, REST APIs, basic DevOps workflows
 
 🏆 Highlight
-	•	Gamethon2k25 — Winner
+	•	Gamethon 2k25 — Winner
+    •	Enigma4.0 2k25 — Winner
+ 
 
 📁 Portfolio
 
