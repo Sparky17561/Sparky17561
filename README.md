@@ -1,52 +1,65 @@
-Saiprasad Jamdar
-Kalyan/Maharashtra
-SDE / AI Engineer • Gamethon2k25 Winner
-21 currently
-Hi — I’m Saiprasad. I build things with code, tinker with AI, and ship full-stack projects.
-Upcoming intern at Wissen Technology.
+# Hi, I’m Saiprasad Jamdar 👋
 
-⸻
+**SDE / AI Engineer**  
+📍 Kalyan, Maharashtra, India  
+🏆 Gamethon2k25 Winner | AI & Full-Stack Developer  
+🎓 Upcoming Intern @ Wissen Technology  
+🎂 21
 
-🔭 Currently
-	•	Preparing for my internship at Wissen Technology
-	•	Continuing to explore ML/AI tooling and production-ready web apps
+---
 
-🛠️ Tech & Tools
-	•	Languages: Python, JavaScript, HTML, CSS
-	•	Frameworks / Libraries: Django, React, LangChain
-	•	Databases: PostgreSQL, MySQL
-	•	Other: Git, REST APIs, basic DevOps workflows
+I build end-to-end software systems — from backend APIs to AI-powered features — with a strong focus on **clarity, scalability, and shipping real products**.  
+I enjoy experimenting with ML/AI tooling, solving practical problems, and turning ideas into working applications.
 
-🏆 Highlight
-	•	Gamethon 2k25 — Winner
-    •	Enigma4.0 2k25 — Winner
- 
+---
 
-📁 Portfolio
+## 🔭 Currently
+- Preparing for my internship at **Wissen Technology**
+- Exploring **ML/AI systems**, LLM tooling, and production-ready web applications
+- Improving system design, backend reliability, and clean architecture practices
 
-Check out my work and projects:
-https://saiprasadjamdar.vercel.app
+---
 
-⸻
+## 🛠️ Tech Stack
 
-📌 Quick note
+**Languages**  
+- Python, JavaScript, HTML, CSS  
 
-That’s all for now — I’ll keep this README updated as I build more projects and gain new experiences.
+**Frameworks & Libraries**  
+- Django, React, LangChain  
 
-⸻
+**Databases**  
+- PostgreSQL, MySQL  
 
+**Tools & Practices**  
+- Git, REST APIs, API design  
+- Basic DevOps workflows & deployment  
+- Secure backend development
 
-<!--
-**Sparky17561/Sparky17561** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🏆 Achievements & Awards
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🥇 **Gamethon 2k25** — Winner  
+- 🥇 **Enigma 4.0 2k25** — Winner  
+- 🥇 **Technocrats 2k25** — Winner  
+- 🥇 **XLRI – kAIzen 2k25** — Winner  
+- 🏅 **HackAura 2k25** (Girls in Tech) — *Wolfram Award*
+
+---
+
+## 📁 Portfolio
+
+🔗 **Explore my projects and work:**  
+👉 https://saiprasadjamdar.vercel.app
+
+---
+
+## 📌 Quick Note
+
+This profile evolves as I build, learn, and ship more meaningful projects.  
+I value **depth over noise** and prefer systems that actually work in the real world.
+
+---
+
+Thanks for stopping by 🙂
