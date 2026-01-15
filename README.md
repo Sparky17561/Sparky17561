@@ -14,8 +14,8 @@ I enjoy experimenting with ML/AI tooling, solving practical problems, and turnin
 ---
 
 ## 🔭 Currently
-- Preparing for my internship at **Wissen Technology**
-- Exploring **ML/AI systems**, LLM tooling, and production-ready web applications
+- Interning at **Wissen Technology**
+- Exploring **RL & LLM Architecture**, LLM tooling, and production-ready web applications
 - Improving system design, backend reliability, and clean architecture practices
 
 ---
@@ -23,18 +23,19 @@ I enjoy experimenting with ML/AI tooling, solving practical problems, and turnin
 ## 🛠️ Tech Stack
 
 **Languages**  
-- Python, JavaScript, HTML, CSS  
+- Python, Java, JavaScript, HTML, CSS  
 
 **Frameworks & Libraries**  
-- Django, React, LangChain  
+- Django, React, Express, Node, Springboot  
 
 **Databases**  
-- PostgreSQL, MySQL  
+- PostgreSQL, MySQL, MongoDB  
 
 **Tools & Practices**  
 - Git, REST APIs, API design  
 - Basic DevOps workflows & deployment  
 - Secure backend development
+- Docker, Kubernates
 
 ---
 
