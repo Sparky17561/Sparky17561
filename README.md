@@ -1,9 +1,9 @@
 # Hi, I’m Saiprasad Jamdar 👋
 
-**SDE / AI Engineer**  
+**Researcher x Engineer**  
 📍 Kalyan, Maharashtra, India  
 🏆 Gamethon2k25 Winner | AI & Full-Stack Developer  
-🎓 Upcoming Intern @ Wissen Technology  
+🎓 Intern @ Wissen Technology  
 🎂 21
 
 ---
